@@ -1,8 +1,12 @@
 body {
-  background-color: #242b32;
-  font-family: 'Poppins', sans-serif;
+  background-color: #324559;
+  font-family: 'Times New Roman', Times, serif
   margin: 0;
   padding: 0;
+  text-align: center;
+}
+.a{
+  text-shadow: #f1f1f1;
 }
 
 .App {
@@ -10,17 +14,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-}
-
-header {
-  background-color: #4f46e5;
-  color: white;
-  padding: 20px 0;
-  font-size: 2rem;
-}
-
-header h1 {
-  margin: 0;
 }
 
 .card {
@@ -54,12 +47,7 @@ footer {
   margin-top: 50px;
 }
 
-footer a {
-  color: #4f46e5;
-  margin: 0 10px;
-  text-decoration: none;
-}
-
 footer a:hover {
   text-decoration: underline;
 }
+

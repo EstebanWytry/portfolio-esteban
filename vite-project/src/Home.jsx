@@ -9,7 +9,7 @@ const Home = () => {
     nombre: "Juan Esteban",
     apellido: "Wytrykusz",
     descripcion: "Estudiante de programación de la Universidad Tecnologica de Tucuman. manejo de Lenguajes como C#, Java, HTML, CSS, JavaScript y base de datos con MongoDB",
-    imagen: "",
+    imagen: "./public/miFoto.jpg"
   };
 
   return (
